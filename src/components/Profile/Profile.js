@@ -1,4 +1,4 @@
-import {Card, Img, List, Desc, Items, Span, Description} from "./Profile.styled.js"
+import {Card, Img, List, Desc, Items, Span} from "./Profile.styled.js"
 
 
 export const Profile = ({items}) => {
