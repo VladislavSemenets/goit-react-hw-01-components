@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/VladislavSemenets/goit-react-hw-01-components/static/js/main.64322f07.js",
-    "index.html": "/VladislavSemenets/goit-react-hw-01-components/index.html",
-    "main.64322f07.js.map": "/VladislavSemenets/goit-react-hw-01-components/static/js/main.64322f07.js.map"
+    "main.js": "/goit-react-hw-01-components/static/js/main.12e3132d.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.12e3132d.js.map": "/goit-react-hw-01-components/static/js/main.12e3132d.js.map"
   },
   "entrypoints": [
-    "static/js/main.64322f07.js"
+    "static/js/main.12e3132d.js"
   ]
 }
